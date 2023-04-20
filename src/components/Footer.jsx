@@ -10,7 +10,7 @@ const githubLink = "https://github.com/brianpinney/quizz-app-bp"
                 <Col> <footer>
                     <p><small>&copy;{currentYear}</small>
                     <br />
-                    <a href="{githubLink}" target="_blank" rel="noreferrer">Code in Github</a>
+                    <a href={githubLink} target="_blank" rel="noreferrer">Code in Github</a>
                     </p>
                     </footer>
                 </Col>
